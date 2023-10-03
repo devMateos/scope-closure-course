@@ -1,0 +1,12 @@
+{
+  "name": "scope-closure-course",
+  "version": "1.0.0",
+  "description": "Ejercicios del Curso de Scope y Closure de JavaScript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
